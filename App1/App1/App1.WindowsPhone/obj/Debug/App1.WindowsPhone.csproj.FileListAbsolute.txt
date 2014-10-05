@@ -1,0 +1,94 @@
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\App.xbf
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\App1.WindowsPhone.xr.xml
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\App1.WindowsPhone.exe
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\App1.WindowsPhone.pdb
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\resources.pri
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\App1.WindowsPhone.build.appxrecipe
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\App1.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\App.g.cs
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\App.xaml
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\App.xbf
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\App1.WindowsPhone.exe
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\App1.WindowsPhone.pdb
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\App1.WindowsPhone.csproj.GenerateResource.Cache
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\priconfig.xml
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\layout.resfiles
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\resources.resfiles
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\pri.resfiles
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.dll
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.Extensions.dll
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.xml
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.Extensions.pri
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Code\Slack\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.Platform.pri
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\Caliburn.Micro.Extensions.pri.xml
+C:\Code\Slack\App1\App1\App1.WindowsPhone\obj\Debug\Caliburn.Micro.Platform.pri.xml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\App1.WindowsPhone.xr.xml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\App1.WindowsPhone.exe
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\App1.WindowsPhone.pdb
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\App1.WindowsPhone.build.appxrecipe
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.dll
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.Extensions.dll
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.xml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.Extensions.pri
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\Caliburn.Micro.Platform.pri
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\App1.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\App1.WindowsPhone.exe
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\App1.WindowsPhone.pdb
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\App1.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\Caliburn.Micro.Extensions.pri.xml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\Caliburn.Micro.Platform.pri.xml
+C:\Users\Efrat Barak\Documents\CaliburnBugSample\App1\App1\App1.WindowsPhone\obj\Debug\ProjectArchitectures.txt
